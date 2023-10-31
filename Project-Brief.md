@@ -1,7 +1,7 @@
 # List of Teams/Projects
 |팀번호|팀명|프로젝트|
 |:---|:---|:---|
-|01|[GG](#team-01)|지진 시뮬레이션 게임
+|01|[GG](#team-01)|지진 대응 수칙 홍보 게임
 |02|[가이드북](#team-02)|완독을 목표로한 유저 어휘력&문해력 기반 맞춤 도서 추천 웹
 |03|[00즈](#team-03)|뭐 찾으세요?: 온라인 가상 점원 서비스
 |04|[Transformer](#team-04)|Accelerating VIT via Token Merging
