@@ -16,6 +16,7 @@
 |13|[스윗팡이크루](#team-13)|Agent.I : Generative Agent를 적용한 Human-like NPC와 상호 작용하는  사회 시뮬레이션 게임
 |14|[CoB](#team-14)|PitchFinder: 사용자 음높이 기반 가요 필터링 서비스 개발
 |15|[감자도리](#team-15)|다시: 은퇴한 시니어 전문가를 위한 긱 워킹 채용 플랫폼
+|16|[깡총](#team-16)|주변 소리를 인식하여 상황별 알람을 받을 수 있는 서비스: 쫑긋
 |17|[출발드림팀](#team-17)|AI 객체 인식과 프롬프트 엔지니어링을 활용해 맞춤형 건강 조언을 제공하는 과민대장증후군 관리 어플리케이션, BellyWelly
 |18|[뽀로로에디](#team-18)|Prompirit: Automatic Prompt Engineering Tool to Improve AI-Generative Art Using User Emotion
 |19|[TMM](#team-19)|캣치타임: 효율적인 시간 관리를 돕는 타이머 기반 모바일 육성 게임
