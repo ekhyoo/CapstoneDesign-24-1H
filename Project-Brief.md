@@ -18,7 +18,7 @@
 |15|[감자도리](#team-15)|다시: 은퇴한 시니어 전문가를 위한 긱 워킹 채용 플랫폼
 |16|[깡총](#team-16)|주변 소리를 인식하여 상황별 알람을 받을 수 있는 서비스: 쫑긋
 |17|[출발드림팀](#team-17)|AI 객체 인식과 프롬프트 엔지니어링을 활용해 맞춤형 건강 조언을 제공하는 과민대장증후군 관리 어플리케이션, BellyWelly
-|18|[뽀로로에디](#team-18)|Prompirit: Automatic Prompt Engineering Tool to Improve AI-Generative Art Using User Emotion
+|18|[뽀로로에디](#team-18)|Prompirit: Automatic Prompt Engineering Assistance to Improve AI-Generative Art Using User Emotion
 |19|[TMM](#team-19)|캣치타임: 효율적인 시간 관리를 돕는 타이머 기반 모바일 육성 게임
 |20|[쿠킹마마](#team-20)|식재료 관리를 통한 1인 가구의 식비 절감 지원 웹앱 서비스
 |21|[AtoB](#team-21)|일기장 속 친구 :감정 이해와 조언의 동반자 PSYLOG
@@ -402,7 +402,7 @@
 [Return TOP](#list-of-teamsprojects)
  
 # Team-18
-| (1) 과제명 | Prompirit: Automatic Prompt Engineering Tool to Improve AI-Generative Art Using User Emotion
+| (1) 과제명 | Prompirit: Automatic Prompt Engineering Assistance to Improve AI-Generative Art Using User Emotion
 |:---  |---  |
 | (2) 팀 번호 / 팀 이름 | 18-뽀로로에디 |
 | (3) 팀원 역할 분담 | 김한나(2071019): 리더, Text Emotion Recognition, Emotion Label Append, 인터뷰 사이트 제작<br>방선유(2076181): 팀원, Style modifiers, 설문조사지 제작<br>이현(2070064): 팀원, Text Preprocessing, Image Generation, Style modifiers, Statistics |
