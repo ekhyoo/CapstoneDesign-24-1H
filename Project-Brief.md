@@ -25,7 +25,7 @@
 |23|[새우타코](#team-23)|Stroke-based Collaborative Drawing between Robot(AI) and Human
 |24|[망고젤리](#team-24)|Grounding Dino를 활용한 객체 탐지 기반 CCTV 속 흉기 난동 상황 모니터링 SDK
 |25|[S](#team-25)|스케줄 추천 및 일정 관리 서비스
-|26|[ETT](#team-26)|DISLODGED :  TTS를 활용한 감성 웹 서비스
+|26|[ETT](#team-26)|DISLODGED :  TTS 기술을 활용한 익명 감성 위로 커뮤니티
 |27|[E모지](#team-27)|MosaicNow
 |28|[달리리](#team-28)|속마음을 담은 일기 교환을 통해 현대인의 소외감 해소를 돕는 교환일기 웹 서비스 <비밀친구>
 |29|[츄라이](#team-29)|AI를 활용한 영어 스피킹 시험 준비 앱
@@ -569,7 +569,7 @@
 [Return TOP](#list-of-teamsprojects)
  
 # Team-26
-| (1) 과제명 | DISLODGED :  TTS를 활용한 감성 웹 서비스
+| (1) 과제명 | DISLODGED :  TTS 기술을 활용한 익명 감성 위로 커뮤니티
 |:---  |---  |
 | (2) 팀 번호 / 팀 이름 | 26-ETT |
 | (3) 팀원 역할 분담 | 최유미(2171048) : 리더, 백엔드, AI<br>남승현(2176121) :  팀원, 프론트엔드, AI<br>송민경(2176190) : 팀원, 프론트엔드, AI |
