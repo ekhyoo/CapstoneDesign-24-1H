@@ -1,4 +1,4 @@
-![image](https://github.com/tqios/CapstoneDesign-24-1H/assets/80325001/c084b29e-2e40-4b56-b530-5fae4f5985fa)# List of Teams/Projects
+# List of Teams/Projects
 |팀번호|팀명|프로젝트|
 |:---|:---|:---|
 |01|[Optimus GPrime](#team-01)|Lamp: GPU Microarchitecture Simulator 용 Large Language Model (LLM) Benchmark 개발 연구
