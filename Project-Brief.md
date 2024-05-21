@@ -17,7 +17,7 @@
 |14|[CoB](#team-14)|PitchFinder: 사용자 음높이 기반 가요 필터링 서비스 개발
 |15|[감자도리](#team-15)|다시: 은퇴한 시니어 전문가를 위한 긱 워킹 채용 플랫폼
 |16|[깡총](#team-16)|주변 소리를 인식하여 상황별 알람을 받을 수 있는 서비스: 쫑긋
-|17|[출발드림팀](#team-17)|AI 객체 인식과 프롬프트 엔지니어링을 활용해 맞춤형 건강 조언을 제공하는 과민대장증후군 관리 어플리케이션, BellyWelly
+|17|[출발드림팀](#team-17)|AI를 활용하여 맞춤형 건강 조언을 제공하는 과민대장증후군 관리 어플리케이션, BellyWelly
 |18|[뽀로로에디](#team-18)|Prompirit: Automatic Prompt Engineering Assistance to Improve AI-Generative Art Using User Emotion
 |19|[TMM](#team-19)|캣치타임: 효율적인 시간 관리를 돕는 타이머 기반 모바일 육성 게임
 |20|[쿠킹마마](#team-20)|식재료 관리를 통한 1인 가구의 식비 절감 지원 웹앱 서비스
@@ -381,7 +381,7 @@
 [Return TOP](#list-of-teamsprojects)
  
 # Team-17
-| (1) 과제명 | AI 객체 인식과 프롬프트 엔지니어링을 활용해 맞춤형 건강 조언을 제공하는 과민대장증후군 관리 어플리케이션, BellyWelly
+| (1) 과제명 | AI를 활용하여 맞춤형 건강 조언을 제공하는 과민대장증후군 관리 어플리케이션, BellyWelly
 |:---  |---  |
 | (2) 팀 번호 / 팀 이름 | 17-출발드림팀 |
 | (3) 팀원 역할 분담 | 송채원(2076216): 팀장, 딥러닝 YOLOv8, FastAPI, PyTorch, Python<br>안채연(2076232): 팀원, 프론트엔드 <Progressive Web App> TypeScript, React.JS<br>김예지(2176082): 팀원, 백엔드 Java, Springboot, MySQL, AWS Ubuntu, Docker |
