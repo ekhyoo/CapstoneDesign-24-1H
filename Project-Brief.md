@@ -19,7 +19,7 @@
 |16|[깡총](#team-16)|주변 소리를 인식하여 상황별 알람을 받을 수 있는 서비스: 쫑긋
 |17|[출발드림팀](#team-17)|AI를 활용하여 맞춤형 건강 조언을 제공하는 과민대장증후군 관리 어플리케이션, BellyWelly
 |18|[뽀로로에디](#team-18)|Prompirit: Automatic Prompt Engineering Assistance to Improve AI-Generative Art Using User Emotion
-|19|[TMM](#team-19)|캣치타임: 효율적인 시간 관리를 돕는 타이머 기반 모바일 육성 게임
+|19|[TMM](#team-19)|캣치타임: 효율적인 시간 관리를 돕는 타이머 기반 캐릭터 육성 게임
 |20|[쿠킹마마](#team-20)|쿡세이브: 식재료 관리를 통한 1인 가구의 식비 절감 지원 웹앱 서비스
 |21|[AtoB](#team-21)|일기장 속 친구 :감정 이해와 조언의 동반자 PSYLOG
 |22|[쓰리박](#team-22)|Fairy Tairy : 동화같은 그림을 자동으로 생성해주는 AI 일기 서비스
